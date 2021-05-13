@@ -1,0 +1,10 @@
+node_modules
+dist
+@test
+__snapshots__
+
+# This template is generated from template.master.yaml so it should not be checked in
+template.yaml
+
+# Terraform
+.terraform
